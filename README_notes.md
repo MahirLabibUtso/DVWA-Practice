@@ -26,7 +26,7 @@ User Id -->
 inspect--> User Id
 
 
-<option value="1 or 1=1 UNION SELECT user, password FROM users#">' UNION SELECT username, password FROM users--1</option>
+option value="1 or 1=1 UNION SELECT user, password FROM users#">' UNION SELECT username, password FROM users--1</option
 
 NB: However due to the SQL query not having **quotes** around the parameter, this will not fully protect the query from being altered.
     (View Help & Source Code)
