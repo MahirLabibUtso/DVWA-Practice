@@ -44,6 +44,6 @@ Set Setting: Low & collect the hashes.
 
 Paste it into crackstation.net to get the passwords.
 
-# Additional Help: https://portswigger.net/web-security/sql-injection/union-attacks
+Additional Help: https://portswigger.net/web-security/sql-injection/union-attacks
 
 
